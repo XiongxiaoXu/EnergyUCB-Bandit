@@ -2,8 +2,7 @@
 The official EnergyUCB implementation for the paper "Online Energy Optimization in GPUs: A Multi-Armed Bandit Approach".
 
 ## EnergyUCB Algorithm
-<img width="532" alt="image" src="https://github.com/user-attachments/assets/ef051d69-8a6b-44e4-9b8c-14d49b1755a8">
-
+<img width="488" alt="image" src="https://github.com/user-attachments/assets/6f6f2d35-d841-47cf-8ad5-ee53d9ad436e">
 
 ## Architcture of an Aurora Node
 <img width="472" alt="image" src="https://github.com/user-attachments/assets/7b904c5f-2337-47c5-870a-54754e154ec5">
