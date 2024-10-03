@@ -34,5 +34,3 @@ For exmaple, if we want to optimize emnergy in GPUs for the HPC application 532.
 <img width="1410" alt="image" src="https://github.com/user-attachments/assets/8301301b-15a0-4d9a-9f6a-51b4d3aa3258">
 
 
-
-
