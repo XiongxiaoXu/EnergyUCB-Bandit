@@ -8,7 +8,7 @@ The official EnergyUCB implementation for the paper "Online Energy Optimization 
 <img width="472" alt="image" src="https://github.com/user-attachments/assets/7b904c5f-2337-47c5-870a-54754e154ec5">
 
 ## Contributions
-• Problem Formulation: We formally define the new problem of online GPU energy optimization and formulate it as a multi-armed bandit framework, which inherently addresses the exploration \& exploitation dilemma across frequencies in the online setting. <br/>
+• Problem Formulation: We formally define the **new problem of online GPU energy optimization** and formulate it as a **multi-armed bandit framework**, which inherently addresses the exploration \& exploitation dilemma across frequencies in the online setting. <br/>
 • Algorithm: We propose a novel meta-learning approach to learn to transfer node representations from self-supervised tasks to assist supervised tasks with little labeled anomalies. <br/>
 • Evaluation: We conduct extensive experiments on six real-world datasets with synthetically injected anomalies and organic anomalies. The experimental results demonstrate the effectiveness of the proposed approach MetaGAD for graph anomaly detection. <br/>
 
