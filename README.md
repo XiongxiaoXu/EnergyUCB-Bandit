@@ -9,8 +9,8 @@ The official EnergyUCB implementation for the paper "Online Energy Optimization 
 
 ## Contributions
 • Problem Formulation: We formally define the **new problem of online GPU energy optimization** and formulate it as a **multi-armed bandit framework**, which inherently addresses the exploration \& exploitation dilemma across frequencies in the online setting. <br/>
-• Algorithm: We propose a novel meta-learning approach to learn to transfer node representations from self-supervised tasks to assist supervised tasks with little labeled anomalies. <br/>
-• Evaluation: We conduct extensive experiments on six real-world datasets with synthetically injected anomalies and organic anomalies. The experimental results demonstrate the effectiveness of the proposed approach MetaGAD for graph anomaly detection. <br/>
+• Algorithm: We develop a principled **multi-armed bandit framework EnergyUCB** that evaluates GPU performance in real-time using the ratio of GPU core utilization to uncore utilization. The reward formulation is designed to **balance the performance-energy trade-off** by considering both energy consumption and performance. <br/>
+• Evaluation: We **collect a dataset from PVC GPUs installed in the Aurora supercomputer, the second-fastest supercomputer in the world**. Using this dataset, we evaluate our proposed EnergyUCB framework on various real-world HPC applications. **The experimental results demonstrate that EnergyUCB can achieve energy savings for Aurora compared to its default settings**. <br/>
 
 ## Getting Started
 ### Environment
