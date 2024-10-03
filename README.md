@@ -21,13 +21,13 @@ The official EnergyUCB implementation for the paper "Online Energy Optimization 
 ### Run
 Run the Energyucb.py with the following command in a terminal:
 
-`python main.py --app app`
+`python Energyucb.py --app app`
 
 Replace app wirt the name of HPC application.
 
 For exmaple, if we want to optimize emnergy in GPUs for the HPC application 532.sph_exa_t, the command should be as follows:
 
-`python main.py --app 532.sph_exa_t`
+`python Energyucb.py --app 532.sph_exa_t`
 
 ## Experimental Results
 ### Energy Consumption
