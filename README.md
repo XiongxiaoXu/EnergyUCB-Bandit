@@ -33,11 +33,6 @@ For exmaple, if we want to optimize emnergy in GPUs for the HPC application 532.
 ### Energy Consumption
 <img width="1410" alt="image" src="https://github.com/user-attachments/assets/8301301b-15a0-4d9a-9f6a-51b4d3aa3258">
 
-### Regret
-<img width="702" alt="image" src="https://github.com/user-attachments/assets/62588fd0-e058-4711-8920-cb302435f09b">
-
-### Execution time analysis
-<img width="735" alt="image" src="https://github.com/user-attachments/assets/98fa2ee1-7cfc-4fed-8675-1af961d20939">
 
 
 
