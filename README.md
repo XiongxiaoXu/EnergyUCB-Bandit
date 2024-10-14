@@ -1,5 +1,5 @@
 # EnergyUCB-Bandit
-The official EnergyUCB implementation for the paper "Online Energy Optimization in GPUs: A Multi-Armed Bandit Approach".
+The official EnergyUCB implementation for the "Online Energy Optimization in GPUs: A Multi-Armed Bandit Approach".
 
 ## Contributions
 • Problem Formulation: We formally define the **new problem of online GPU energy optimization** and formulate it as a **multi-armed bandit framework**, which inherently addresses the exploration \& exploitation dilemma across frequencies in the online setting. <br/>
