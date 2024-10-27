@@ -33,4 +33,14 @@ For exmaple, if we want to optimize emnergy in GPUs for the HPC application 532.
 ### Energy Consumption
 <img width="1410" alt="image" src="https://github.com/user-attachments/assets/8301301b-15a0-4d9a-9f6a-51b4d3aa3258">
 
+## Cite
+If you find this repository useful for your work, please consider citing the paper as follows:
 
+```bibtex
+@article{xu2024online,
+  title={Online Energy Optimization in GPUs: A Multi-Armed Bandit Approach},
+  author={Xu, Xiongxiao and Bekele, Solomon Abera and Videau, Brice and Shu, Kai},
+  journal={arXiv preprint arXiv:2410.11855},
+  year={2024}
+}
+```
