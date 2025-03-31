@@ -7,10 +7,14 @@ The official EnergyUCB implementation for the paper "[Online Energy Optimization
 • Evaluation: We **collect a dataset from PVC GPUs installed in the Aurora supercomputer, the second-fastest supercomputer in the world**. Using this dataset, we evaluate our proposed EnergyUCB framework on various real-world HPC applications. **The experimental results demonstrate that EnergyUCB can achieve energy savings for Aurora compared to its default settings**. <br/>
 
 ## 🔎 EnergyUCB Algorithm
-<img width="488" alt="image" src="https://github.com/user-attachments/assets/6f6f2d35-d841-47cf-8ad5-ee53d9ad436e">
+<div align="left">
+<img src="Algorithm.jpg" style="width: 50%;height: 50%">
+</div>
 
 ## 🤖 Architcture of an Aurora Node
-<img width="472" alt="image" src="https://github.com/user-attachments/assets/7b904c5f-2337-47c5-870a-54754e154ec5">
+<div align="left">
+<img src="AuroraNode.jpg" style="width: 50%;height: 50%">
+</div>
 
 ## ⚙️ Getting Started
 ### Environment
@@ -31,7 +35,9 @@ For exmaple, if we want to optimize emnergy in GPUs for the HPC application 532.
 
 ## 📈 Experimental Results
 ### Energy Consumption
-<img width="1410" alt="image" src="https://github.com/user-attachments/assets/8301301b-15a0-4d9a-9f6a-51b4d3aa3258">
+<div align="center">
+<img src="Results.jpg" style="width: 90%;height: 90%">
+</div>
 The experimentral results demonstrate the effectivenss of EnergyUCB to online minimize energy consumption.
 
 ## 📝 Citation
