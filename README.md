@@ -32,6 +32,7 @@ For exmaple, if we want to optimize emnergy in GPUs for the HPC application 532.
 ## 📈 Experimental Results
 ### Energy Consumption
 <img width="1410" alt="image" src="https://github.com/user-attachments/assets/8301301b-15a0-4d9a-9f6a-51b4d3aa3258">
+The experimentral results demonstrate the effectivenss of EnergyUCB to online minimize energy consumption.
 
 ## 📝 Citation
 If you find this repository useful for your work, please consider citing the paper as follows:
